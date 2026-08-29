@@ -16,7 +16,7 @@ Unity汎用Moddingフレームワークの**BepInEx**のプラグインとして
 
 ## 使い方
 
-当MODの導入や機能の説明はwikiをご覧ください.
+当MODの導入や機能の説明は[wiki](https://github.com/fronsglaciei/ysyqol/wiki)をご覧ください.
 
 ## 免責事項
 
