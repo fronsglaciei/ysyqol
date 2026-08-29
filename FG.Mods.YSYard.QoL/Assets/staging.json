@@ -1,0 +1,130 @@
+{
+  "Texts": {
+    "ModSettingPanelTitle": {
+      "SimpleChinese": "QoL-MOD 设置",
+      "TraditionalChinese": "QoL-MOD 設定",
+      "English": "QoL-MOD Settings",
+      "Japanese": "QoL-MOD 設定"
+    },
+    "MouseWheelDownToProgress": {
+      "SimpleChinese": "使用鼠标滚轮向下阅读更多",
+      "TraditionalChinese": "使用滑鼠滾輪向下閱讀更多",
+      "English": "Mouse wheel down to read next",
+      "Japanese": "ホイール下で読み進め"
+    },
+    "MouseWheelUpToBacklog": {
+      "SimpleChinese": "使用鼠标滚轮向上显示历史",
+      "TraditionalChinese": "使用滑鼠滾輪向上顯示歷史",
+      "English": "Mouse wheel up to show backlog",
+      "Japanese": "ホイール上でバックログ表示"
+    },
+    "MouseRightUpToCloseBacklog": {
+      "SimpleChinese": "使用鼠标右键关闭历史",
+      "TraditionalChinese": "使用滑鼠右鍵關閉歷史",
+      "English": "Mouse right click to close backlog",
+      "Japanese": "マウス右クリックでバックログを閉じる"
+    },
+    "ForceInstantText": {
+      "SimpleChinese": "强制立即显示文本",
+      "TraditionalChinese": "強制立即顯示文字",
+      "English": "Show text instantly",
+      "Japanese": "テキストを強制的に即時表示"
+    },
+    "TextFontName": {
+      "SimpleChinese": "文本字体",
+      "TraditionalChinese": "文字字體",
+      "English": "Text font",
+      "Japanese": "テキストのフォント"
+    },
+    "APMaxPoint": {
+      "SimpleChinese": "行动力上限值",
+      "TraditionalChinese": "行動力上限值",
+      "English": "AP max point",
+      "Japanese": "行動力の上限値"
+    },
+    "SkipAutoOpenVisitedPlayGuides": {
+      "SimpleChinese": "不显示已阅读的指南",
+      "TraditionalChinese": "不顯示已閱讀的指南",
+      "English": "Skip open visited guides",
+      "Japanese": "既読ヘルプを表示しない"
+    },
+    "SkipBloodMoonAnimations": {
+      "SimpleChinese": "省略血月降临动画效果",
+      "TraditionalChinese": "省略血月降臨動畫效果",
+      "English": "Skip Blood Moon animations",
+      "Japanese": "ブラッドムーンのアニメ省略"
+    },
+    "UseRestaurantFeatures": {
+      "SimpleChinese": "为餐厅界面添加功能",
+      "TraditionalChinese": "為餐廳介面添加功能",
+      "English": "Use Restaurant features",
+      "Japanese": "レストラン画面に機能追加"
+    },
+    "UseQuickSaveLoad": {
+      "SimpleChinese": "使用快速保存/加载",
+      "TraditionalChinese": "使用快速保存/載入",
+      "English": "Use quick-save and -load",
+      "Japanese": "Qセーブ/Qロードを使用"
+    },
+    "SkipConfirmQuickLoad": {
+      "SimpleChinese": "不确认快速加载",
+      "TraditionalChinese": "不確認快速載入",
+      "English": "Skip confirm quick-load",
+      "Japanese": "Qロード確認をスキップ"
+    },
+    "UseModTranslations": {
+      "SimpleChinese": "非公式日本語翻訳を使用",
+      "TraditionalChinese": "非公式日本語翻訳を使用",
+      "English": "非公式日本語翻訳を使用",
+      "Japanese": "非公式日本語翻訳を使用"
+    },
+    "SettingOn": {
+      "SimpleChinese": "有效",
+      "TraditionalChinese": "有效",
+      "English": "On",
+      "Japanese": "有効"
+    },
+    "SettingOff": {
+      "SimpleChinese": "无效",
+      "TraditionalChinese": "無效",
+      "English": "Off",
+      "Japanese": "無効"
+    },
+    "QuickSaved": {
+      "SimpleChinese": "快速保存了",
+      "TraditionalChinese": "快速保存了",
+      "English": "Quick-saved",
+      "Japanese": "クイックセーブ完了"
+    },
+    "ConfirmQuickSave": {
+      "SimpleChinese": "确定要快速保存吗？",
+      "TraditionalChinese": "確定要快速保存嗎?",
+      "English": "Are you sure you want to quick-save?",
+      "Japanese": "クイックセーブしますか？"
+    },
+    "ConfirmQuickLoad": {
+      "SimpleChinese": "确定要快速加载吗？\n你将会失去未保存的进度。",
+      "TraditionalChinese": "確定要快速載入嗎?\n你將會失去未保存的進度。",
+      "English": "Are you sure you want to quick-load?\nUnsaved progress will be lost.",
+      "Japanese": "クイックロードしますか？\n保存されていない進行状況は失われます。"
+    },
+    "QuickLoadFailure": {
+      "SimpleChinese": "快速加载失败",
+      "TraditionalChinese": "快速載入失敗",
+      "English": "Failed to quick-load",
+      "Japanese": "クイックロードに失敗"
+    },
+    "MenuReportTitle": {
+      "SimpleChinese": "菜单食材",
+      "TraditionalChinese": "菜單食材",
+      "English": "Menu Ingredients",
+      "Japanese": "メニュー食材"
+    },
+    "MenuReportTip": {
+      "SimpleChinese": "当菜单中选定的每道菜各烹饪一次时，总共会消耗以下食材。",
+      "TraditionalChinese": "當菜單中選定的每道菜餚各烹調一次時，總共會消耗以下食材。",
+      "English": "When each food selected as menu is cooked once each, the following ingredients are consumed in total.",
+      "Japanese": "メニューとして選択された料理を1食分ずつ調理した場合、以下の食材が消費されます。"
+    }
+  }
+}

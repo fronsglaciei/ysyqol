@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FG.Defs.YSYard.QoL/FG.Defs.YSYard.QoL.csproj" />
+  <Project Path="FG.Mods.YSYard.QoL.Installer/FG.Mods.YSYard.QoL.Installer.csproj" Id="0e7043a2-e3c8-4b92-8226-7b55dd260704" />
+  <Project Path="FG.Mods.YSYard.QoL/FG.Mods.YSYard.QoL.csproj" />
+  <Project Path="FG.Utils.Resources/FG.Utils.Resources.csproj" />
+</Solution>
